@@ -1,0 +1,30 @@
+{
+    "short_name": "Rock Paper Scissors",
+    "name": "Rock Paper Scissors Game ",
+    "description": "RPS Game created by rima, have fun and share with ur friend",
+    "icons": [
+      {
+        "src": "./icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "./index.html",
+    "display": "standalone",
+    "theme_color": "#00041d",
+    "background_color": "#00041d",
+    "orientation": "landscape",
+    "screenshots": [
+      {
+        "src": "./icon.png",
+        "type": "image/png",
+        "sizes": "540x720"
+      },
+      {
+        "src": "./icon.png",
+        "type": "image/jpg",
+        "sizes": "540x720"
+      }
+    ]
+  }
+
